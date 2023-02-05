@@ -1,5 +1,6 @@
  1)  To get in the console, press Ctrl + Shift + J
-  2) Copy and paste the above code
+ 2)  
+  2) Copy and paste the code in the javascript file.(comments not necessary)
     
   3) Replace the 12 seed with your own seed words
     
